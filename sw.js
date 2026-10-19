@@ -1,5 +1,5 @@
 // عند تعديل التطبيق غيّر رقم الإصدار حتى تصل التحديثات للهواتف
-const CACHE = 'shasha-debts-v6';
+const CACHE = 'shasha-debts-v8';
 const FILES = ['./','index.html','manifest.json','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png','icons/icon-maskable-192.png','icons/icon-maskable-512.png','icons/logo-small.png'];
 
 self.addEventListener('install', e => {
