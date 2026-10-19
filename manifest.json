@@ -1,7 +1,7 @@
 {
- "name": "تطبيق شاشا للديون",
- "short_name": "شاشا للديون",
- "description": "دفتر ديون الزبائن — Shasha Tech Solutions",
+ "name": "شاشا — المبيعات والديون",
+ "short_name": "شاشا",
+ "description": "المبيعات وطرق الدفع وتقفيل اليومية ودفتر الديون — Shasha Tech Solutions",
  "lang": "ar",
  "dir": "rtl",
  "start_url": "./",
