@@ -1,5 +1,5 @@
 // رقم الإصدار يُكتب تلقائياً عند البناء (build.js) — لا حاجة لتغييره يدوياً
-const CACHE = 'shasha-debts-202611231923';
+const CACHE = 'shasha-debts-202611231958';
 const FILES = ['./','index.html','manifest.json','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png','icons/icon-maskable-192.png','icons/icon-maskable-512.png','icons/logo-small.png'];
 
 self.addEventListener('install', e => {
